@@ -69,9 +69,9 @@
                 "width": "fill",
                 "custom_width": 100,
                 "inherit_color_scheme": true,
+                "color_scheme": "scheme-4",
                 "heading": "",
                 "heading_preset": "h3",
-                "color_scheme": "scheme-4",
                 "border_style": "all",
                 "border_width": 0,
                 "border_radius": 100,
@@ -95,6 +95,7 @@
           ]
         }
       },
+      "disabled": true,
       "name": "t:names.media_with_text",
       "settings": {
         "media_position": "left",
