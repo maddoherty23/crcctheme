@@ -258,7 +258,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>Best Selling Products</h3>",
+                "text": "<p>Handmade & Ready to Ship</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
