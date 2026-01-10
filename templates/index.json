@@ -96,7 +96,7 @@
                   "type": "text",
                   "name": "Heading",
                   "settings": {
-                    "text": "<h2><em>Introducing</em></h2>",
+                    "text": "<h2><em>Homemade with Love</em></h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -121,7 +121,7 @@
                 "text_m9AcWC": {
                   "type": "text",
                   "settings": {
-                    "text": "<h1>Our Newest Arrivals </h1>",
+                    "text": "<h1>From Our Ranch to Your Home</h1>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -153,7 +153,7 @@
               "type": "text",
               "name": "Text",
               "settings": {
-                "text": "<p>Bring order to the chaos. When all your tech essentials have a dedicated spot on your desk, you don’t have to waste any time searching for them. </p>",
+                "text": "<p>Rustic gifts and home decor inspired by ranch life and the beauty of Central Oregon</p>",
                 "width": "fit-content",
                 "max_width": "none",
                 "alignment": "left",
