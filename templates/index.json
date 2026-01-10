@@ -619,6 +619,7 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
+                "image": "shopify://shop_images/Untitled_design_13.png",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -666,7 +667,7 @@
             "text_3BfQwk": {
               "type": "text",
               "settings": {
-                "text": "<p>Objects that partner with your digital tools so you can focus on your most important work.</p>",
+                "text": "<p>From custom wreaths and seasonal décor to done-for-you bows and unique handmade gifts, each piece is thoughtfully created to bring warmth and charm to your home. </p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
