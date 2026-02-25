@@ -6,7 +6,8 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */{
+ */
+{
   "sections": {
     "main": {
       "type": "product-information",
@@ -24,6 +25,7 @@
             "slideshow_mobile_controls_style": "dots",
             "thumbnail_position": "bottom",
             "thumbnail_width": 44,
+            "thumbnail_radius": 0,
             "aspect_ratio": "1",
             "constrain_to_viewport": true,
             "media_fit": "cover",
@@ -99,6 +101,7 @@
                 "show_number": true,
                 "rating_color": "primary",
                 "type_preset": "paragraph",
+                "width": "100%",
                 "alignment": "left"
               },
               "blocks": {}
@@ -203,7 +206,6 @@
               "type": "group",
               "name": "Values",
               "settings": {
-                "open_in_new_tab": false,
                 "content_direction": "column",
                 "vertical_on_mobile": true,
                 "horizontal_alignment": "flex-start",
@@ -227,11 +229,13 @@
                 "border_width": 1,
                 "border_opacity": 100,
                 "border_radius": 0,
-                "placeholder": "",
                 "toggle_overlay": false,
                 "overlay_color": "#00000026",
                 "overlay_style": "solid",
                 "gradient_direction": "to top",
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
                 "padding-block-start": 8,
                 "padding-block-end": 16,
                 "padding-inline-start": 0,
@@ -242,7 +246,6 @@
                   "type": "group",
                   "name": "Row 1",
                   "settings": {
-                    "open_in_new_tab": false,
                     "content_direction": "row",
                     "vertical_on_mobile": false,
                     "horizontal_alignment": "flex-start",
@@ -266,11 +269,13 @@
                     "border_width": 1,
                     "border_opacity": 100,
                     "border_radius": 0,
-                    "placeholder": "",
                     "toggle_overlay": false,
                     "overlay_color": "#00000026",
                     "overlay_style": "solid",
                     "gradient_direction": "to top",
+                    "link": "",
+                    "open_in_new_tab": false,
+                    "placeholder": "",
                     "padding-block-start": 0,
                     "padding-block-end": 0,
                     "padding-inline-start": 0,
@@ -281,7 +286,6 @@
                       "type": "group",
                       "name": "Care",
                       "settings": {
-                        "open_in_new_tab": false,
                         "content_direction": "column",
                         "vertical_on_mobile": true,
                         "horizontal_alignment": "flex-start",
@@ -305,11 +309,13 @@
                         "border_width": 1,
                         "border_opacity": 100,
                         "border_radius": 10,
-                        "placeholder": "",
                         "toggle_overlay": false,
                         "overlay_color": "#00000026",
                         "overlay_style": "solid",
                         "gradient_direction": "to top",
+                        "link": "",
+                        "open_in_new_tab": false,
+                        "placeholder": "",
                         "padding-block-start": 42,
                         "padding-block-end": 42,
                         "padding-inline-start": 0,
@@ -322,6 +328,7 @@
                           "settings": {
                             "icon": "heart",
                             "width": 24,
+                            "link": "",
                             "open_in_new_tab": false
                           },
                           "blocks": {}
@@ -362,7 +369,6 @@
                       "type": "group",
                       "name": "Value",
                       "settings": {
-                        "open_in_new_tab": false,
                         "content_direction": "column",
                         "vertical_on_mobile": true,
                         "horizontal_alignment": "flex-start",
@@ -386,11 +392,13 @@
                         "border_width": 1,
                         "border_opacity": 100,
                         "border_radius": 10,
-                        "placeholder": "",
                         "toggle_overlay": false,
                         "overlay_color": "#00000026",
                         "overlay_style": "solid",
                         "gradient_direction": "to top",
+                        "link": "",
+                        "open_in_new_tab": false,
+                        "placeholder": "",
                         "padding-block-start": 42,
                         "padding-block-end": 42,
                         "padding-inline-start": 0,
@@ -403,6 +411,7 @@
                           "settings": {
                             "icon": "price_tag",
                             "width": 24,
+                            "link": "",
                             "open_in_new_tab": false
                           },
                           "blocks": {}
@@ -449,7 +458,6 @@
                   "type": "group",
                   "name": "Row 2",
                   "settings": {
-                    "open_in_new_tab": false,
                     "content_direction": "row",
                     "vertical_on_mobile": false,
                     "horizontal_alignment": "flex-start",
@@ -473,11 +481,13 @@
                     "border_width": 1,
                     "border_opacity": 100,
                     "border_radius": 0,
-                    "placeholder": "",
                     "toggle_overlay": false,
                     "overlay_color": "#00000026",
                     "overlay_style": "solid",
                     "gradient_direction": "to top",
+                    "link": "",
+                    "open_in_new_tab": false,
+                    "placeholder": "",
                     "padding-block-start": 0,
                     "padding-block-end": 0,
                     "padding-inline-start": 0,
@@ -488,7 +498,6 @@
                       "type": "group",
                       "name": "Design",
                       "settings": {
-                        "open_in_new_tab": false,
                         "content_direction": "column",
                         "vertical_on_mobile": true,
                         "horizontal_alignment": "flex-start",
@@ -512,11 +521,13 @@
                         "border_width": 1,
                         "border_opacity": 100,
                         "border_radius": 10,
-                        "placeholder": "",
                         "toggle_overlay": false,
                         "overlay_color": "#00000026",
                         "overlay_style": "solid",
                         "gradient_direction": "to top",
+                        "link": "",
+                        "open_in_new_tab": false,
+                        "placeholder": "",
                         "padding-block-start": 42,
                         "padding-block-end": 42,
                         "padding-inline-start": 0,
@@ -529,6 +540,7 @@
                           "settings": {
                             "icon": "plant",
                             "width": 24,
+                            "link": "",
                             "open_in_new_tab": false
                           },
                           "blocks": {}
@@ -569,7 +581,6 @@
                       "type": "group",
                       "name": "Quality",
                       "settings": {
-                        "open_in_new_tab": false,
                         "content_direction": "column",
                         "vertical_on_mobile": true,
                         "horizontal_alignment": "flex-start",
@@ -593,11 +604,13 @@
                         "border_width": 1,
                         "border_opacity": 100,
                         "border_radius": 10,
-                        "placeholder": "",
                         "toggle_overlay": false,
                         "overlay_color": "#00000026",
                         "overlay_style": "solid",
                         "gradient_direction": "to top",
+                        "link": "",
+                        "open_in_new_tab": false,
+                        "placeholder": "",
                         "padding-block-start": 42,
                         "padding-block-end": 42,
                         "padding-inline-start": 0,
@@ -610,6 +623,7 @@
                           "settings": {
                             "icon": "leather",
                             "width": 24,
+                            "link": "",
                             "open_in_new_tab": false
                           },
                           "blocks": {}
@@ -780,6 +794,7 @@
         "equal_columns": false,
         "limit_details_width": false,
         "gap": 48,
+        "enable_sticky_add_to_cart": true,
         "color_scheme": "",
         "padding-block-start": 0,
         "padding-block-end": 32
@@ -815,6 +830,7 @@
       "block_order": [
         "video_PthMbP"
       ],
+      "disabled": true,
       "name": "t:names.video_section",
       "settings": {
         "content_direction": "column",
@@ -949,7 +965,6 @@
               "type": "_product-card-group",
               "name": "t:names.group",
               "settings": {
-                "open_in_new_tab": false,
                 "content_direction": "column",
                 "vertical_on_mobile": true,
                 "horizontal_alignment": "space-between",
@@ -977,6 +992,8 @@
                 "overlay_color": "#00000026",
                 "overlay_style": "solid",
                 "gradient_direction": "to top",
+                "link": "",
+                "open_in_new_tab": false,
                 "padding-block-start": 24,
                 "padding-block-end": 24,
                 "padding-inline-start": 24,
